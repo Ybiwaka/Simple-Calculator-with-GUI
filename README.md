@@ -2,7 +2,7 @@
 
  Simple Calculator with GUI written in Python
  
- ![pic] (pic.PNG)
+ ![pic](https://github.com/Ybiwaka/Simple-Calculator-with-GUI/blob/main/pic.PNG)
  
 # Short description
 
