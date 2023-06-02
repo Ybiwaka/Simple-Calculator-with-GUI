@@ -13,4 +13,5 @@ The goal when creating this program was to create a similar calculator built int
 Python 3.11+
 
 PySide6
-'pip install pyside6'
+
+`pip install pyside6`
