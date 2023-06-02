@@ -1,7 +1,7 @@
 # Simple Calculator with GUI
 
  Simple Calculator with GUI written in Python
- ![Simple Calculator with GUI pic] (Simple Calculator with GUI pic.png)
+ ![pic] (pic.png)
  
 # Short description
 
