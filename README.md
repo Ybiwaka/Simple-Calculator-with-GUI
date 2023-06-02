@@ -1,7 +1,8 @@
 # Simple Calculator with GUI
 
  Simple Calculator with GUI written in Python
- ![pic] (pic.png)
+ 
+ ![pic] (pic.PNG)
  
 # Short description
 
