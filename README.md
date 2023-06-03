@@ -23,7 +23,7 @@ OR just use the compiled version of the program
 
 [Last release](https://github.com/Ybiwaka/Simple-Calculator-with-GUI/releases/tag/Calculator)
 
-#Author
+# Author
 
 Program written by
 Kozlov Aleksey Olegovich
